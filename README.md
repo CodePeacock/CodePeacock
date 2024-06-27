@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codepeacock" alt="codepeacock" /></a> </p>
 
-- 🌱 I’m currently learning **GenAI Pinnacle Program – April 2024 – Ongoing, Python Django – The Practical Guide – June 2024 – Ongoing, 100 Days of Code: The Complete Python Pro Bootcamp – June 2024 – Ongoing, The Complete 2024 Web Development Bootcamp – June 2024 – Ongoing**
+- 🌱 I’m currently learning **GenAI Pinnacle Program – April 2024 – Ongoing, Python Django – The Practical Guide – June 2024 – Ongoing, 100 Days of Code: The Complete Python Pro Bootcamp – June 2024 – Ongoing, The Complete 2024 Web Development Bootcamp – June 2024 – Ongoing. All courses are on Udemy**
 
 - 💬 Ask me about **Anything 😊**
 
 - 📫 How to reach me **vader6571@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OecYEaPNvJOFTD_wADbRbk8ObDZ8tDVa/view?usp=sharing](https://drive.google.com/file/d/1OecYEaPNvJOFTD_wADbRbk8ObDZ8tDVa/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OecYEaPNvJOFTD_wADbRbk8ObDZ8tDVa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-sinalkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-sinalkar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayur-sinalkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-sinalkar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
